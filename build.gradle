@@ -32,3 +32,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+task stage(dependsOn: ['shadowJar'])
+shadowJar.mustRunAfter clean

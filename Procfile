@@ -1,1 +1,1 @@
-web: java -jar FirstGradle-1.0-SNAPSHOT-all.jar
+web: java -jar  build/libs/FirstGradle-1.0-SNAPSHOT-all.jar
