@@ -1,4 +1,4 @@
-My first Gradle Project
+My first Gradle Project for Introduction to Software Engineering Class
 
 [![Build Status](https://travis-ci.com/kaanuzunpinar/FirstGradle.svg?branch=main)](https://travis-ci.com/kaanuzunpinar/FirstGradle)
 
