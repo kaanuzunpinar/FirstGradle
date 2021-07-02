@@ -1,8 +1,8 @@
-My first Gradle Project for Introduction to Software Engineering Class
+My first Gradle Project for improving my skills in areas like: Developing JAVA App, CI/CD, Gradle.
 
 [![Build Status](https://travis-ci.com/kaanuzunpinar/FirstGradle.svg?branch=main)](https://travis-ci.com/kaanuzunpinar/FirstGradle)
 
-In this project, i programmed a simple website that doing simple calculation with java. under
+In this project, I programmed a simple website that doing simple calculation with java. under
 /compute domain there is a tool which firstly calculates mean of 3 numbers that entered right box
 then it prints how many numbers in the left box is bigger then the mean. Note that numbers must be seperated by NewLine(\n) character in both boxes.
 
