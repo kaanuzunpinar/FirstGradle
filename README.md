@@ -8,6 +8,6 @@ then it prints how many numbers in the left box is bigger then the mean. Note th
 
 I used Mustache and Spark.
 Below you can find a sample site which i created with continuous integration and continuous deployment.
-For this sample i used Heroku and Travis
+For this sample I used Heroku and Travis
 
 Demo compute adress: https://murmuring-coast-86668.herokuapp.com/compute
